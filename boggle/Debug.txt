@@ -1,0 +1,2 @@
+
+The average of the 1000 games was 0.0978 milliseconds
